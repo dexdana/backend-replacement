@@ -56,9 +56,11 @@ def is_origin_allowed(origin):
 
     Eg.:
     is_origin_allowed("https://forkdelta.github.io") => True
+    is_origin_allowed("https://api.forkdelta.app/") => True
     is_origin_allowed("https://forkdelta.com/") => True
     is_origin_allowed("https://api.forkdelta.com/") => True
     is_origin_allowed("http://localhost:3000/") => True
+    is_origin_allowed("http://localhost:8545/") => True
     is_origin_allowed("http://localhost:8080/") => True
     is_origin_allowed("wss://api.forkdelta.com/") => True
     is_origin_allowed("ws://localhost:3001/") => True
