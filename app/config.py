@@ -1,5 +1,5 @@
-# ForkDelta Backend
-# https://github.com/forkdelta/backend-replacement
+# Dexdana Backend
+# https://github.com/dexdana/backend-replacement
 # Copyright (C) 2018, Arseniy Ivanov and ForkDelta Contributors
 #
 # This program is free software: you can redistribute it and/or modify
