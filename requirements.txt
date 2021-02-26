@@ -13,7 +13,7 @@ yarl==1.3.0
 websockets~=8.0.2
 # Socket.IO server to provide a WS API, backed by aiohttp for HTTP long-polling support
 python-socketio~=4.3.1
-aiohttp==2.3.7
+aiohttp==3.7.4
 # rapidjson is a faster json serialization library (cf. https://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
 python-rapidjson==0.8.0
 
